@@ -1,0 +1,17 @@
+#node_modules
+node_modules/
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
