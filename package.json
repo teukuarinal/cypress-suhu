@@ -11,5 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "cypress": "^15.17.0"
-  }
+  },
+  "packageManager": "pnpm@11.1.2"
 }
